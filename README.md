@@ -465,9 +465,3 @@ For detailed API documentation, you can access Swagger UI (if configured) or ref
 
 This project is created for Kaiburr LLC assessment.
 
-## Notes
-
-- Make sure to include screenshots with your name and timestamp as per submission requirements
-- The application validates commands to prevent malicious operations
-- All task executions are stored in the database with timestamps
-- The API supports CORS for frontend integration
